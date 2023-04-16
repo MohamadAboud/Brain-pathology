@@ -1,0 +1,49 @@
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.exe
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.deps.json
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.runtimeconfig.json
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.pdb
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.AssemblyReference.cache
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.GenerateResource.cache
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.AssemblyInfoInputs.cache
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.AssemblyInfo.cs
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.CoreCompileInputs.cache
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.CopyComplete
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\refint\Brain Pathology.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.pdb
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.genruntimeconfig.cache
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\ref\Brain Pathology.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.SplashView.resources
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.AppView.resources
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.Properties.Resources.resources
+C:\Users\aboud\source\repos\Brain Pathology\Brain Pathology\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.AssemblyReference.cache
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.AppView.resources
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.Properties.Resources.resources
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.SplashView.resources
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.GenerateResource.cache
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.GeneratedMSBuildEditorConfig.editorconfig
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.AssemblyInfoInputs.cache
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.AssemblyInfo.cs
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.CoreCompileInputs.cache
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\refint\Brain Pathology.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.pdb
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.exe
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.deps.json
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.runtimeconfig.json
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\Brain Pathology.pdb
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\CircularProgressBar.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\MaterialSkin.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\bin\Debug\net6.0-windows\WinFormAnimation.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.csproj.CopyComplete
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain Pathology.genruntimeconfig.cache
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\ref\Brain Pathology.dll
+F:\1.Python\1.Projects\2.The University projects\5.Brain Tumor Detection (GUI)\3.ui\Brain Pathology\obj\Debug\net6.0-windows\Brain_Pathology.MoreInfoView.resources
